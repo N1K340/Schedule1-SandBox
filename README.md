@@ -22,9 +22,10 @@ Good luck making your adventure without the overbearing influence of Nelson
 
 ##### Save File
 From v0.3.5f3 there is an import function. Select New Game, then Import. Select the sandbox.zip file.
+You will start on Day 1 with $0 and only the equipment normally found in the RV.
 
 ##### Create a New Game
-Alternatively create your own new game, customise the charachter as you please and skip the prologue.
+Alternatively create your own new game, customise the character as you please and skip the prologue.
 Once you load into the RV for the first time, immediately exit and close the game.
 In a file explorer navigate to your save file location *"C:\Users\%USERNAME%\AppData\LocalLow\TVGS\Schedule I\Saves"*
 Copy the 'Quests.json' file into the new save game, i.e Slot 5 in the game menu is SaveGame_5 folder etc.
