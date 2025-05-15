@@ -28,3 +28,6 @@ Alternatively create your own new game, customise the charachter as you please a
 Once you load into the RV for the first time, immediately exit and close the game.
 In a file explorer navigate to your save file location *"C:\Users\%USERNAME%\AppData\LocalLow\TVGS\Schedule I\Saves"*
 Copy the 'Quests.json' file into the new save game, i.e Slot 5 in the game menu is SaveGame_5 folder etc.
+
+#### Available from
+[Nexus Mods](https://www.nexusmods.com/schedule1/mods/976)
